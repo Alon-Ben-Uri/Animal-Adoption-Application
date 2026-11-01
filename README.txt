@@ -1,9 +1,3 @@
-I'd like to start by saying that this project is meant to be made by 2-3 people, in roughly 2 or 3 months time.
-Because of bad time management on my side, I only had a little over a week to program it alone from scratch.
-Therefore there are many things I would've changed had I more time - which I'll go over in the last part of the video - but 
-I never got to it. Of course that in real world application I would never do such a thing, but in this case I had to 
-have something to present to the university (the final grade was 80/100).
-
 There are two side to this project, a server side and a client side. The server side operates from the PC while the client operates 
 from a smartphone. The server thread starts a clienthandler thread for each client that starts up the app. The client communicates with
 the server and database through the clienthandler, which receives requests from the client and handles them. 
